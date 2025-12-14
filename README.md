@@ -294,8 +294,8 @@ pip install pandas numpy matplotlib seaborn nfl-tracks
 All visualizations are available in the [`images/`](images/) directory and are included in the competition submission.
 
 **YouTube Videos:**
-- [Contested Completion Animation](https://youtube.com/...) - (https://youtu.be/KoBJXg0ojtM)
-- [Interception Animation](https://youtube.com/...) - (https://youtu.be/9JY1xY6_B-8)
+- [Contested Completion Animation](https://youtu.be/KoBJXg0ojtM) - (https://youtu.be/KoBJXg0ojtM)
+- [Interception Animation](https://youtu.be/9JY1xY6_B-8) - (https://youtu.be/9JY1xY6_B-8)
 
 ---
 
